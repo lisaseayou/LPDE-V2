@@ -1,4 +1,5 @@
 import Head from "next/head";
+import ContactForm from "../components/ContactForm";
 
 
 export default function Contact() {
@@ -11,7 +12,7 @@ export default function Contact() {
       </Head>
       
 
-      <p>contactez nous ! </p>
+      <ContactForm />
     </div>
   );
 }

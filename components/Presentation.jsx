@@ -5,14 +5,14 @@ font-family: "Verdana";
 font-weight: lighter;
 line-height: 2; 
 display: flex;
-font-size: 20px;
+font-size: 16px;
 text-transform: uppercase;
 justify-content: center;
 align-items: center;
 padding-top: 50px;
 padding-bottom: 50px; 
-padding-left: 50px;
-padding-right: 50px;
+padding-left: 70px;
+padding-right: 70px;
 text-align: center;
 color: white; 
 //margin: auto;
@@ -78,7 +78,7 @@ margin-bottom: 10px
 `;
 
 const Logo = styled.img`
-width: 90px;
+width: 60px;
 //height: 110px;
 margin-bottom: 50px;
 `;

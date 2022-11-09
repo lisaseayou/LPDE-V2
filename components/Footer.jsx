@@ -7,7 +7,7 @@ const Foot = styled.div`
   color: #fff;
   font-family: "Verdana";
   border-radius: 50px 50px 0px 0px;
-  box-shadow: 0px -6px 30px #00000080;
+  box-shadow: 0px -6px 10px #00000080;
   bottom: 0;
   z-index: 1;
   position: static;
